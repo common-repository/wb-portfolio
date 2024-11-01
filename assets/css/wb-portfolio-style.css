@@ -1,0 +1,51 @@
+/**/
+img.wbportfolio-cover{
+ width:250px;
+ height: auto;
+}
+.wbportfolio_items{
+width:280px;
+height: auto;
+float: left;
+}
+
+section.wbportfolio_area{
+  display: block;
+  clear: both;
+  height: 100px;
+  width: auto;
+}
+ul.wbportfolio_filters{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+
+ul.wbportfolio_filters li{
+	float: left;
+	margin-right: 20px;
+	background-color: #343434;
+	color: #fff;
+	padding:6px 14px;
+  border-radius: 4px;
+}
+ul.wbportfolio_filters li:hover{
+	background-color: #60646D;
+
+}
+ul.wbportfolio_filters li a{
+  color:#fff;
+  text-decoration: none;
+  text-transform: capitalize;
+}
+ul.wbportfolio_filters li a:hover{
+
+}
+.wbportfolio_single_items{
+	margin-right:10px;
+  margin-bottom: 10px;
+}
+.wbportfolio_title {
+    background-color: #d7d7d7;
+    padding: 4px 10px;
+}

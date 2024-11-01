@@ -1,0 +1,93 @@
+ol.pro-features {
+    font-size: 16px;
+    line-height: 24px;
+}
+.wbportfolio-cupon-btn{
+  display:block;margin-top:14px; font-size:13px; color:#0073AA; line-height:20px;
+}
+.wbportfolio-pro-btn{
+  display:inline-block;
+   background:#33b690; padding:8px 25px 8px; border-bottom:3px solid #33a583;
+   border-radius:3px; color:white;
+}
+
+/*Button*/
+.wbportfolio-btn-orange {
+    background-color: #F27935 !important;
+    border-color: #F27935 !important;
+}
+.wbportfolio-button {
+    border-style: solid;
+    border-width: 0px 0px 3px;
+    box-shadow: 0 -1px 0 rgba(255, 255, 255, 0.1) inset;
+    color: #FFFFFF;
+    border-radius: 4px;
+    cursor: pointer;
+    display: inline-block;
+    font-style: normal;
+    overflow: hidden;
+    text-align: center;
+    text-decoration: none;
+    text-overflow: ellipsis;
+    transition: all 200ms ease-in-out 0s;
+    white-space: nowrap;
+    padding: 12px 16px 9px;
+    font-size: 16px;
+    margin-right: 10px;
+}
+/*Green
+==========================*/
+.wbportfolio-btn-green {
+  border-color: #3AC162;
+  background-color: #5FCF80;
+
+}
+.wbportfolio-btn-green:hover, .wbportfolio-btn-green:focus, .wbportfolio-btn-green:active {
+    background-color: #4BC970;
+    border-color: #3AC162;
+    color:#d7d7d7;
+}
+/*lime
+==========================*/
+
+.wbportfolio-btn-lime {
+
+    background-color: #19B5FE !important;
+    border-color: #049de4 !important;
+
+}
+.wbportfolio-btn-lime:hover, .wbportfolio-btn-lime:focus, .wbportfolio-btn-lime:active {
+    background: none repeat scroll 0 0 #19B5FE !important;
+    border-color: #049de4 !important;
+    color: #d7d7d7;
+}
+/*Blue
+==========================*/
+.wbportfolio-btn-blue {
+
+    border-color: #326E99;
+    background-color: #3F8ABF;
+}
+
+.wbportfolio-btn-blue:hover, .wbportfolio-btn-blue:focus, .wbportfolio-btn-blue:active {
+    background-color: #397CAC;
+    border-color: #326E99;
+    color:#d7d7d7;
+}
+/*Red
+==========================*/
+.wbportfolio-btn-red {
+
+    background-color: #ED5A5A !important;
+    border-color: #EA4343 !important;
+
+}
+.wbportfolio-btn-red:hover, .wbportfolio-btn-red:focus, .wbportfolio-btn-red:active {
+    background: none repeat scroll 0 0 #EB4848 !important;
+    border-color: #E83131 !important;
+}
+
+a.wbportfolio-pro-link {
+    color: red;
+    font-weight: bold;
+}
